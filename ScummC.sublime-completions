@@ -3,6 +3,7 @@
 
         "completions":
         [
+                // Functions
                 { "trigger": "abs()", "contents": "int abs( ${1:val} )" },
                 { "trigger": "actorFace()", "contents": "actorFace( ${1:actor}, ${2:obj} )" },
                 { "trigger": "actorFreeze()", "contents": "actorFreeze()" },
@@ -238,6 +239,7 @@
                 { "trigger": "walkActorTo()", "contents": "walkActorTo( ${1:actor}, ${2:x}, ${3:y} )" },
                 { "trigger": "walkActorToObj()", "contents": "walkActorToObj( ${1:actor}, ${2:object}, ${3:distance} )" },
 
+                // Variables
                 { "trigger": "VAR_ACTOR_RANGE_MAX", "contents": "VAR_ACTOR_RANGE_MAX" },
                 { "trigger": "VAR_ACTOR_RANGE_MIN", "contents": "VAR_ACTOR_RANGE_MIN" },
                 { "trigger": "VAR_CAMERA_FAST_X", "contents": "VAR_CAMERA_FAST_X" },
