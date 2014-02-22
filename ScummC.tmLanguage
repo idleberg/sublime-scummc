@@ -11,6 +11,13 @@
 	<string>ScummC</string>
 	<key>comment</key>
 	<string>https://github.com/idleberg/ScummC-Sublime-Text</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.c</string>
+		</dict>
+	</array>
 	<key>scopeName</key>
 	<string>source.scummc</string>
 	<key>uuid</key>
