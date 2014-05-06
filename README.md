@@ -1,4 +1,4 @@
-# ScummC for Sublime Text
+# ScummC for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/ScummC-Sublime-Text.png)](http://travis-ci.org/idleberg/ScummC-Sublime-Text)
 
 [Sublime Text](http://www.sublimetext.com/) syntax completions for [ScummC](https://github.com/jamesu/scummc) functions and variable names.
 
