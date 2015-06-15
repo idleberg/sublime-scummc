@@ -1,7 +1,7 @@
 # ScummC for Sublime Text
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/release/idleberg/ScummC-Sublime-Text.svg?style=flat-square)](https://github.com/idleberg/ScummC-Sublime-Text/releases)
+[![GitHub tag](https://img.shields.io/github/tag/idleberg/ScummC-Sublime-Text.svg?style=flat-square)](https://github.com/idleberg/ScummC-Sublime-Text/tags)
 [![Travis](https://img.shields.io/travis/idleberg/ScummC-Sublime-Text.svg?style=flat-square)](https://travis-ci.org/idleberg/ScummC-Sublime-Text)
 
 [Sublime Text](http://www.sublimetext.com/) syntax completions for [ScummC](https://github.com/jamesu/scummc) functions and variable names.
