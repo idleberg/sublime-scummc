@@ -1,5 +1,5 @@
 {
-        "scope": "source.c, source.scummc",
+        "scope": "source.c.scumm",
 
         "completions":
         [
