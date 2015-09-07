@@ -240,8 +240,8 @@
                 { "trigger": "walkActorToObj()", "contents": "walkActorToObj( ${1:actor}, ${2:object}, ${3:distance} )" },
 
                 { "#": "Includes" },
-                { "trigger": "scummVars6", "contents": "#include <scummVars6.s>" },
-                { "trigger": "scummVars7", "contents": "#include <scummVars7.s>" },
+                { "trigger": "include scummVars6", "contents": "#include <scummVars6.s>" },
+                { "trigger": "include scummVars7", "contents": "#include <scummVars7.s>" },
 
                 { "#": "Variables" },
                 { "trigger": "VAR_ACTOR_RANGE_MAX", "contents": "VAR_ACTOR_RANGE_MAX" },
