@@ -4,7 +4,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/idleberg/ScummC-Sublime-Text.svg?style=flat-square)](https://github.com/idleberg/ScummC-Sublime-Text/tags)
 [![Travis](https://img.shields.io/travis/idleberg/ScummC-Sublime-Text.svg?style=flat-square)](https://travis-ci.org/idleberg/ScummC-Sublime-Text)
 
-[Sublime Text](http://www.sublimetext.com/) syntax completions for [ScummC](https://github.com/jamesu/scummc) functions, constants, classes and variables.
+[Sublime Text](http://www.sublimetext.com/) syntax completions for [ScummC](https://github.com/AlbanBedel/scummc) functions, constants, classes and variables.
 
 ## Installation
 
