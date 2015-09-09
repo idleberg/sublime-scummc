@@ -1,0 +1,15 @@
+{
+        "scope": "source.c.scumm",
+
+        "completions":
+        [
+
+                { "trigger": "ClassAlwaysClip", "contents": "ClassAlwaysClip" },
+                { "trigger": "ClassIgnoreBoxes", "contents": "ClassIgnoreBoxes" },
+                { "trigger": "ClassNeverClip", "contents": "ClassNeverClip" },
+                { "trigger": "ClassPlayer", "contents": "ClassPlayer" },
+                { "trigger": "ClassUntouchable", "contents": "ClassUntouchable" },
+                { "trigger": "ClassXFlip", "contents": "ClassXFlip" },
+                { "trigger": "ClassYFlip", "contents": "ClassYFlip" }
+        ]
+}

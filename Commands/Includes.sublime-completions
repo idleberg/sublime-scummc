@@ -1,0 +1,10 @@
+{
+        "scope": "source.c.scumm",
+
+        "completions":
+        [
+
+                { "trigger": "include scummVars6", "contents": "#include <scummVars6.s>" },
+                { "trigger": "include scummVars7", "contents": "#include <scummVars7.s>" }
+        ]
+}
