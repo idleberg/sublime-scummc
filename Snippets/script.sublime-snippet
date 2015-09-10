@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:local|global} script ${2:name}( ${4:/* args */} ) {
+    ${5:// your code here}
+}
+]]></content>
+    <tabTrigger>script</tabTrigger>
+    <scope>source.c.scumm</scope>
+</snippet>

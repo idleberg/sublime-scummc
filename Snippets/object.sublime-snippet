@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+object ${1:name} {
+    ${2:// object_properties}
+}
+]]></content>
+    <tabTrigger>object</tabTrigger>
+    <scope>source.c.scumm</scope>
+</snippet>

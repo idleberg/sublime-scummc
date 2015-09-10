@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+palette ( ${1:INTLIST} )
+]]></content>
+    <tabTrigger>palette</tabTrigger>
+    <scope>source.c.scumm</scope>
+</snippet>

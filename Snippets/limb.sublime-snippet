@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+limb ${1:name} {
+    ${2:// picture_list}
+}
+]]></content>
+    <tabTrigger>limb</tabTrigger>
+    <scope>source.c.scumm</scope>
+</snippet>

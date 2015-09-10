@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+anim ${1:name} {
+    ${2:// your code here}
+}
+]]></content>
+    <tabTrigger>anim</tabTrigger>
+    <scope>source.c.scumm</scope>
+</snippet>

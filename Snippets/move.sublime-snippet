@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+move = { ${1:x}, ${2:y} }
+]]></content>
+    <tabTrigger>move</tabTrigger>
+    <scope>source.c.scumm</scope>
+</snippet>

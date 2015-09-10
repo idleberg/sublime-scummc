@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+room ${1:name} {
+    ${2:// room_declarations}
+}
+]]></content>
+    <tabTrigger>room</tabTrigger>
+    <scope>source.c.scumm</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+cutscene ( ${1:/* args */} ) {
+    ${2:// your code here}
+}
+]]></content>
+    <tabTrigger>cutscene</tabTrigger>
+    <scope>source.c.scumm</scope>
+</snippet>
