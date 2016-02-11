@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: ScummC
+comment: https://github.com/idleberg/ScummC-Sublime-Text
+file_extensions:
+  - scc
+  - sch
+scope: source.c.scumm
+contexts:
+  main:
+    - include: scope:source.c
