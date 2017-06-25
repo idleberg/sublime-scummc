@@ -181,7 +181,7 @@
                 { "trigger": "setRoomScroll()", "contents": "setRoomScroll( ${1:minx}, ${2:maxx} )" },
                 { "trigger": "setRoomShadow()", "contents": "setRoomShadow( ${1:rScale}, ${2:gScale}, ${3:bScale}, ${4:start}, ${5:end} )" },
                 { "trigger": "setScreen()", "contents": "setScreen( ${1:top}, ${2:bottom} )" },
-                { "trigger": "setShadowPalette()", "contents": "setShadowPalette( ${1.startColor}, ${2:endColor}, ${3:rScale}, ${4:gScale}, ${5:bScale} )" },
+                { "trigger": "setShadowPalette()", "contents": "setShadowPalette( ${1:startColor}, ${2:endColor}, ${3:rScale}, ${4:gScale}, ${5:bScale} )" },
                 { "trigger": "setShakeOff()", "contents": "setShakeOff()" },
                 { "trigger": "setShakeOn()", "contents": "setShakeOn()" },
                 { "trigger": "setVerbBackColor()", "contents": "setVerbBackColor( ${1:color} )" },
